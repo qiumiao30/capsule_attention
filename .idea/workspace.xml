@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b66a8bc1-4086-450e-834e-d7ace46580c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="d16d1a83-b4d4-4b64-95aa-3d833a19dcaf">
+    <option name="files">
+      <option value="data\Wafer\test.ipynb" />
+      <option value="data\WalkvsRun\test.ipynb" />
+      <option value="data\eeg2\test.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1qt68LSM2pnXNfiv4g5TrKvRTtx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/py3.7/python.exe" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SWAT\SWaT.A1&amp;A2_Dec_2015-20210224T132913Z_009\SWaT.A1_A2_Dec_2015\Physical\paper\data" />
+      <recent name="D:\SWAT\SWaT.A1&amp;A2_Dec_2015-20210224T132913Z_009\SWaT.A1_A2_Dec_2015\Physical\swat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SWAT\SWaT.A1&amp;A2_Dec_2015-20210224T132913Z_009\SWaT.A1_A2_Dec_2015\Physical\paper\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="dataload" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Physical" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/dataload.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loaddata (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Physical" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/loaddata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loaddata" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Physical" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loaddata.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Physical" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Physical" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.loaddata (1)" />
+        <item itemvalue="Python.dataload" />
+        <item itemvalue="Python.loaddata" />
+        <item itemvalue="Python.train_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b66a8bc1-4086-450e-834e-d7ace46580c8" name="Default Changelist" comment="" />
+      <created>1617886378262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617886378262</updated>
+      <workItem from="1617886379469" duration="51618000" />
+      <workItem from="1619259807133" duration="30954000" />
+      <workItem from="1619357446610" duration="10664000" />
+      <workItem from="1619401178902" duration="20790000" />
+      <workItem from="1619489649388" duration="33408000" />
+      <workItem from="1619748324128" duration="33774000" />
+      <workItem from="1621079768283" duration="15135000" />
+      <workItem from="1621838339772" duration="28775000" />
+      <workItem from="1621947203829" duration="10489000" />
+      <workItem from="1621998588354" duration="64092000" />
+      <workItem from="1622424312279" duration="35742000" />
+      <workItem from="1622771751840" duration="2271000" />
+      <workItem from="1622818562405" duration="113000" />
+      <workItem from="1622821315223" duration="25088000" />
+      <workItem from="1623211531676" duration="28394000" />
+      <workItem from="1623398730187" duration="6718000" />
+      <workItem from="1623557156355" duration="2829000" />
+      <workItem from="1623560580850" duration="981000" />
+      <workItem from="1623688818527" duration="1628000" />
+      <workItem from="1623690464306" duration="3789000" />
+      <workItem from="1623764972844" duration="8201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="248" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619439489438">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="248" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1619439489438" />
+    <state x="482" y="235" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1619449258654">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="482" y="235" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1280.689@0.0.1280.689" timestamp="1619449258653" />
+    <state width="677" height="466" key="DebuggerActiveHint" timestamp="1621845017313">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="677" height="466" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1621845017313" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1623691273536">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1623691273536" />
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom" timestamp="1623765324843">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267582913" />
+    <state width="1663" height="273" key="GridCell.Tab.0.bottom/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619408482938" />
+    <state width="1237" height="164" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1623765324843" />
+    <state width="1237" height="164" key="GridCell.Tab.0.center" timestamp="1623765324843">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267582912" />
+    <state width="1663" height="273" key="GridCell.Tab.0.center/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619408482938" />
+    <state width="1237" height="164" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1623765324843" />
+    <state width="1237" height="164" key="GridCell.Tab.0.left" timestamp="1623765324843">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267582912" />
+    <state width="1663" height="273" key="GridCell.Tab.0.left/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619408482937" />
+    <state width="1237" height="164" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1623765324843" />
+    <state width="1237" height="164" key="GridCell.Tab.0.right" timestamp="1623765324843">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="141" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267582912" />
+    <state width="1663" height="273" key="GridCell.Tab.0.right/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619408482938" />
+    <state width="1237" height="164" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1623765324843" />
+    <state width="1237" height="139" key="GridCell.Tab.1.bottom" timestamp="1622706571275">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="185" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267233331" />
+    <state width="1663" height="412" key="GridCell.Tab.1.bottom/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619407361946" />
+    <state width="1237" height="139" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1622706571275" />
+    <state width="1237" height="139" key="GridCell.Tab.1.center" timestamp="1622706571275">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="185" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267233331" />
+    <state width="1663" height="412" key="GridCell.Tab.1.center/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619407361946" />
+    <state width="1237" height="139" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1622706571275" />
+    <state width="1237" height="139" key="GridCell.Tab.1.left" timestamp="1622706571275">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="185" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267233331" />
+    <state width="1663" height="412" key="GridCell.Tab.1.left/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619407361946" />
+    <state width="1237" height="139" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1622706571275" />
+    <state width="1237" height="139" key="GridCell.Tab.1.right" timestamp="1622706571275">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="185" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1707.929@0.0.1280.689" timestamp="1619267233331" />
+    <state width="1663" height="412" key="GridCell.Tab.1.right/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619407361946" />
+    <state width="1237" height="139" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1622706571275" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1623821424112">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1623821424112" />
+    <state width="647" height="352" key="XDebugger.FullValuePopup" timestamp="1622373160837">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="647" height="352" key="XDebugger.FullValuePopup/0.0.1280.689@0.0.1280.689" timestamp="1622373160837" />
+    <state x="188" y="74" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1617929575636">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="188" y="74" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.689@0.0.1280.689" timestamp="1617929575636" />
+    <state x="339" y="77" width="623" height="536" key="find.popup" timestamp="1619273203760">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="339" y="77" width="623" height="536" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1619273203760" />
+    <state x="303" y="9" width="672" height="678" key="search.everywhere.popup" timestamp="1623898709647">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="2324" y="12" width="672" height="678" key="search.everywhere.popup/0.0.1280.689/1920.0.1707.929@1920.0.1707.929" timestamp="1619399240552" />
+    <state x="303" y="9" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1623898709647" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/swat/dataloading.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/loss_and_metries.py</url>
+          <line>303</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/train_model.py</url>
+          <line>495</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/loaddata.py</url>
+          <line>147</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="train_X" />
+        <watch expression="train_y" />
+        <watch expression="val_output" />
+        <watch expression="x_val" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Physical$dataloading.coverage" NAME="dataloading Coverage Results" MODIFIED="1618194713098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/paper$loaddata__1_.coverage" NAME="loaddata (1) Coverage Results" MODIFIED="1622378433905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/paper$test.coverage" NAME="test Coverage Results" MODIFIED="1620443780452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/paper$loaddata.coverage" NAME="loaddata Coverage Results" MODIFIED="1621950988914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/paper$train_model.coverage" NAME="train_model Coverage Results" MODIFIED="1621080405799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Physical$main.coverage" NAME="main Coverage Results" MODIFIED="1619357140831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Physical$dataloading__1_.coverage" NAME="dataloading (1) Coverage Results" MODIFIED="1619260721825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swat" />
+    <SUITE FILE_PATH="coverage/paper$dataload.coverage" NAME="dataload Coverage Results" MODIFIED="1622258067935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/paper$main.coverage" NAME="main Coverage Results" MODIFIED="1623765319453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Physical$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1618194738017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swat" />
+    <SUITE FILE_PATH="coverage/paper$ttttt.coverage" NAME="ttttt Coverage Results" MODIFIED="1620378849180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
