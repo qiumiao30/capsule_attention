@@ -1,4 +1,4 @@
 # capsule_attention
-The source code with paper:
+The source code with paper: HIGH-FREQUENCY VOLTAGE SIGNAL FAULT DIAGNOSIS BASED ON MULTI-CHANNEL HIERARCHICAL STRUCTURE CAPSULE-ATTENTION NETWORK
 # usage
 
