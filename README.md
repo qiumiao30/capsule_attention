@@ -3,5 +3,6 @@ The source code with paper: HIGH-FREQUENCY VOLTAGE SIGNAL FAULT DIAGNOSIS BASED 
 # 1. usage
 
 # 2. Install Dependencies(Recomend Virtualenv)
-- keras > 2.0
+- keras >= 2.1
+- tensorflow >= 2.1
 
