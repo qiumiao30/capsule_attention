@@ -12,7 +12,7 @@ def args_parser():
                         help='manual epoch number (useful on restarts)')
     parser.add_argument('--epochs', default=20, type=int, metavar='N',
                         help='number of total epochs to run')
-    parser.add_argument('--validation_split', default=0.4, type=float,
+    parser.add_argument('--validation_split', default=0.8, type=float,
                         help='train and test validations')
     parser.add_argument('--seed', default=None, type=int,
                         help='seed for initializing training. ')
